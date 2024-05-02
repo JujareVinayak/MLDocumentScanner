@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths>
+        <external-path name="external_files" path="."/>
+        <cache-path name="ml_doc_scan_" path="." />
+    </paths>
+</resources>
